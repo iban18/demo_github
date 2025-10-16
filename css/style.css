@@ -1,7 +1,28 @@
 h1 {
     color:blanchedalmond;
+    background-color: blue;
+    text-align: center;
+    border-radius: 50%;
+    border-style: ridge;
+    
 }
 
-img {
-    margin: 100px ;
-}
+section { 
+    text-align: center;
+    border-color: blueviolet 100px;
+
+    }
+
+    body {
+        background-color: rgb(148, 194, 194);
+    }
+
+    h2 {
+        background-color: white;
+        border-radius: 50px;
+        text-align: center;
+        border-style: ridge;
+        border-color:black;
+        
+        
+    }
